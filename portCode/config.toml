@@ -1,0 +1,4 @@
+baseURL = 'http://lorc.github.io/'
+languageCode = 'en-us'
+title = 'Chue Lor'
+theme = "hugo-coder"
